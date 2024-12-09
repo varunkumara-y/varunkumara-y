@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Kumara Y</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right"alt="coding"width="400"scr="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+<img align="right"alt="coding"width="400"src="C:\Users\Varun Kumar Y\Downloads\coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 
 - 📫 How to reach me **varunkumary001@gmail.com**

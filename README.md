@@ -7,7 +7,7 @@
 <br>
 -  How to reach me **varunkumary001@gmail.com**
 <br>
-- 💬 Ask me about **Software Related Information**
+- Ask me about **Software Related Information**
 <br>
 
 <p align="left">

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varun Kumara Y</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-<p align="left">I am currently studying CSE at Proudhadevaraya Institue of Technology</p>
+- 💻 I'am currently studying CSE at Proudhadevaraya Institue of Technology
+- 🖥️  I'am currently learning Web Development
 - 📫 How to reach me **varunkumary001@gmail.com**
-
 - 💬 Ask me about **Web Development**
 
 <p align="left">

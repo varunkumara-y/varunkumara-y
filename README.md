@@ -19,7 +19,7 @@
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunkumary001@gmail.com) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumara-y-330004280/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varun_kumar_27)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varunkumar_27_)
  
 
 

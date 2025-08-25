@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun </h1>
 <h3 align="center"></h3>
-<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <br>
 
 ### 👨‍🎓 About Me
@@ -17,9 +17,11 @@
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varun_kumar_27)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumara-y-330004280/)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunkumary001@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumara-y-330004280/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varun_kumar_27)
+ 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

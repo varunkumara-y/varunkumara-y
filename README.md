@@ -11,7 +11,7 @@
   - 💻 Passionate about **Web Development & Modern Technologies** 
   - 🤝 Known for being **flexible, versatile, and adaptive** in team environments
   - 🌱 Currently working on personal projects to sharpen my problem-solving skills
-  - 🚀  Always learning, always exploring
+  - 🚀  Always learning, always expolring.
 
 <p align="left">
 </p>
